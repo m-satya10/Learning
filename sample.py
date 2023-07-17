@@ -1,4 +1,4 @@
-a=10
-b=10
+a=40
+b=50
 print 'sum of two numbers', a+b
 
